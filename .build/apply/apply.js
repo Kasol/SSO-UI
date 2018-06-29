@@ -81,31 +81,19 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "./common/common.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "./apply/apply.js");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "./common/common.css":
-/*!***************************!*\
-  !*** ./common/common.css ***!
-  \***************************/
+/***/ "./apply/apply.js":
+/*!************************!*\
+  !*** ./apply/apply.js ***!
+  \************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("// removed by extract-text-webpack-plugin//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21tb24vY29tbW9uLmNzcz82MTVlIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBIiwiZmlsZSI6Ii4vY29tbW9uL2NvbW1vbi5jc3MuanMiLCJzb3VyY2VzQ29udGVudCI6WyIvLyByZW1vdmVkIGJ5IGV4dHJhY3QtdGV4dC13ZWJwYWNrLXBsdWdpbiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./common/common.css\n");
-
-/***/ }),
-
-/***/ "./common/common.js":
-/*!**************************!*\
-  !*** ./common/common.js ***!
-  \**************************/
-/*! no exports provided */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _common_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./common.css */ \"./common/common.css\");\n/* harmony import */ var _common_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_common_css__WEBPACK_IMPORTED_MODULE_0__);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL2NvbW1vbi9jb21tb24uanMuanMiLCJzb3VyY2VzQ29udGVudCI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./common/common.js\n");
+eval("$(document).ready(function(){\n   var fuck = 'zzm';\n});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9hcHBseS9hcHBseS5qcy5qcyIsInNvdXJjZXMiOlsid2VicGFjazovLy8uL2FwcGx5L2FwcGx5LmpzP2RhMDgiXSwic291cmNlc0NvbnRlbnQiOlsiJChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24oKXtcbiAgIHZhciBmdWNrID0gJ3p6bSc7XG59KTsiXSwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFDQSIsInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./apply/apply.js\n");
 
 /***/ })
 

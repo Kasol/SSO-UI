@@ -81,19 +81,31 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "./apply/apply.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "./common/common.js");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "./apply/apply.js":
-/*!************************!*\
-  !*** ./apply/apply.js ***!
-  \************************/
+/***/ "./common/common.css":
+/*!***************************!*\
+  !*** ./common/common.css ***!
+  \***************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL2FwcGx5L2FwcGx5LmpzLmpzIiwic291cmNlc0NvbnRlbnQiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./apply/apply.js\n");
+eval("// removed by extract-text-webpack-plugin//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jb21tb24vY29tbW9uLmNzcy5qcyIsInNvdXJjZXMiOlsid2VicGFjazovLy8uL2NvbW1vbi9jb21tb24uY3NzPzYxNWUiXSwic291cmNlc0NvbnRlbnQiOlsiLy8gcmVtb3ZlZCBieSBleHRyYWN0LXRleHQtd2VicGFjay1wbHVnaW4iXSwibWFwcGluZ3MiOiJBQUFBIiwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./common/common.css\n");
+
+/***/ }),
+
+/***/ "./common/common.js":
+/*!**************************!*\
+  !*** ./common/common.js ***!
+  \**************************/
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _common_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./common.css */ \"./common/common.css\");\n/* harmony import */ var _common_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_common_css__WEBPACK_IMPORTED_MODULE_0__);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jb21tb24vY29tbW9uLmpzLmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vY29tbW9uL2NvbW1vbi5qcz9jNDNhIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCAnLi9jb21tb24uY3NzJzsiXSwibWFwcGluZ3MiOiJBQUFBO0FBQUE7QUFBQTsiLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./common/common.js\n");
 
 /***/ })
 
