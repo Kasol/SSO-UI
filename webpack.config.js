@@ -53,7 +53,8 @@ module.exports={
         historyApiFallback: true,//不跳转
         inline: true,//实时刷新
         port:process.env.NODE_ENV === 'pro' ? 80:8081,
-        open:true
+        open:true,
+        host:process.env.NODE_ENV === 'pro' ? '47.94.95.201':'localhost'
       },
       watchOptions:{
         poll:1000,//监测修改的时间(ms)
