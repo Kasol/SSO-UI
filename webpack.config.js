@@ -52,7 +52,7 @@ module.exports={
         contentBase: path.join(__dirname, ".build"),//本地服务器所加载的页面所在的目录
         historyApiFallback: true,//不跳转
         inline: true,//实时刷新
-        port:8081,
+        port:process.env.NODE_ENV === 'pro' ? 80:8081,
         open:true
       },
       watchOptions:{

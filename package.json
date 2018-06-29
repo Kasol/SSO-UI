@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "NODE_ENV=dev webpack --watch",
     "pro-watch": "NODE_ENV=pro webpack --watch",
-    "dev": "webpack-dev-server --inline"
+    "dev": "webpack-dev-server --inline",
+    "build": "NODE_ENV=pro webpack",
+    "start": "NODE_ENV=pro webpack-dev-server"
   },
   "author": "",
   "license": "ISC",
