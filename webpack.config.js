@@ -54,7 +54,7 @@ module.exports={
         inline: true,//实时刷新
         port:process.env.NODE_ENV === 'pro' ? 80:8081,
         open:true,
-        host:process.env.NODE_ENV === 'pro' ? '47.94.95.201':'localhost'
+        host:process.env.NODE_ENV === 'pro' ? '172.17.243.179':'localhost'
       },
       watchOptions:{
         poll:1000,//监测修改的时间(ms)
