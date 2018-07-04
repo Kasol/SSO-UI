@@ -5,7 +5,7 @@ const webpack = require('webpack');
 var AssetsPlugin = require('assets-webpack-plugin');
 const CleanWebpackPlugin = require('clean-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
-const base_config = require('./base_config');
+const base_config = require('./base_config'); 
 
 
 // console.log(resource);

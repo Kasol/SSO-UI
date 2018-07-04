@@ -1,3 +1,3 @@
 $(document).ready(function(){
-   var fuck = 'zzm';
+   var fuck = 'ss';
 });
