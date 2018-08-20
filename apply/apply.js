@@ -1,3 +1,3 @@
 $(document).ready(function(){
-   var fuck = 'kasol';
-});
+   var fuck = 'kasol';   
+}); 
